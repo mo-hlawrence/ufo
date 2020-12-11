@@ -28,7 +28,6 @@ observations:
 
 # Test the total number of obs in variable2 & variable3 that lie between 15.0 and 20.0 inclusive.
 # This should be equal to a total of 8 observations exactly.
-observations:
 - obs space:
     name: test data
     obsdatain:
